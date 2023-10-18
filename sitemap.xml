@@ -435,7 +435,7 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/git</loc>
+    <loc>https://github.com/balac2015/tags/docker</loc>
   </url>
 
   <url>
@@ -443,7 +443,7 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/docker</loc>
+    <loc>https://github.com/balac2015/tags/git</loc>
   </url>
 
   <url>
@@ -507,10 +507,6 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/前端</loc>
-  </url>
-
-  <url>
     <loc>https://github.com/balac2015/tags/vuejs</loc>
   </url>
 
@@ -527,6 +523,10 @@
   </url>
 
   <url>
+    <loc>https://github.com/balac2015/tags/前端</loc>
+  </url>
+
+  <url>
     <loc>https://github.com/balac2015/tags/年终总结</loc>
   </url>
 
@@ -539,7 +539,7 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/掘金金石计划</loc>
+    <loc>https://github.com/balac2015/tags/微信小程序</loc>
   </url>
 
   <url>
@@ -547,11 +547,11 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/数据库</loc>
+    <loc>https://github.com/balac2015/tags/掘金金石计划</loc>
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/测试</loc>
+    <loc>https://github.com/balac2015/tags/数据库</loc>
   </url>
 
   <url>
@@ -567,6 +567,6 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/微信小程序</loc>
+    <loc>https://github.com/balac2015/tags/测试</loc>
   </url>
 </urlset>
