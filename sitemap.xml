@@ -431,11 +431,7 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/chatgpt</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/tags/docker</loc>
+    <loc>https://github.com/balac2015/tags/chrome</loc>
   </url>
 
   <url>
@@ -443,7 +439,7 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/git</loc>
+    <loc>https://github.com/balac2015/tags/chatgpt</loc>
   </url>
 
   <url>
@@ -451,11 +447,15 @@
   </url>
 
   <url>
+    <loc>https://github.com/balac2015/tags/git</loc>
+  </url>
+
+  <url>
     <loc>https://github.com/balac2015/tags/javascript</loc>
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/chrome</loc>
+    <loc>https://github.com/balac2015/tags/docker</loc>
   </url>
 
   <url>
@@ -471,11 +471,11 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/openai</loc>
+    <loc>https://github.com/balac2015/tags/orm</loc>
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/orm</loc>
+    <loc>https://github.com/balac2015/tags/openai</loc>
   </url>
 
   <url>
@@ -491,11 +491,11 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/turbopack</loc>
+    <loc>https://github.com/balac2015/tags/uni-app</loc>
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/uni-app</loc>
+    <loc>https://github.com/balac2015/tags/turbopack</loc>
   </url>
 
   <url>
@@ -515,7 +515,7 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/后端</loc>
+    <loc>https://github.com/balac2015/tags/前端</loc>
   </url>
 
   <url>
@@ -523,7 +523,7 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/前端</loc>
+    <loc>https://github.com/balac2015/tags/后端</loc>
   </url>
 
   <url>
@@ -555,6 +555,10 @@
   </url>
 
   <url>
+    <loc>https://github.com/balac2015/tags/测试</loc>
+  </url>
+
+  <url>
     <loc>https://github.com/balac2015/tags/游戏</loc>
   </url>
 
@@ -564,9 +568,5 @@
 
   <url>
     <loc>https://github.com/balac2015/tags/视觉设计</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/tags/测试</loc>
   </url>
 </urlset>
