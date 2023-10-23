@@ -21,16 +21,6 @@
     </item>
   
     <item>
-      <guid>https://github.com/balac2015/blog/free-deploy-honeyed-words-generator</guid>
-      <title>免费部署一个“土味情话”生成网站</title>
-      <link>https://github.com/balac2015/blog/free-deploy-honeyed-words-generator</link>
-      <description>&lt;img src=&quot;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0164da5033af4710895493f25d023ecb~tplv-k3u1fbpfcp-watermark.image?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;首先在“知乎” “微信” 等平台搜索“土味情话”，然后利用抓包工具将一些回答都保存到一个 JSON 中。然后利用随机数就可以随机生成了。&lt;/small&gt;&lt;/p&gt;</description>
-      <pubDate>Mon, 14 Feb 2022 16:00:00 GMT</pubDate>
-      <author>tianping888@163.com (随风)</author>
-      <category>JavaScript</category><category>GitHub</category>
-    </item>
-  
-    <item>
       <guid>https://github.com/balac2015/blog/tailwindCSS-resources-recommendation</guid>
       <title>TailwindCSS 资源推荐</title>
       <link>https://github.com/balac2015/blog/tailwindCSS-resources-recommendation</link>

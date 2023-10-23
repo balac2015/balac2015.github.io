@@ -1,39 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/balac2015/blog/16-places-to-find-illustrations</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/blog/2012-juejin-react-article</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/blog/2021-juejin-100-article</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/blog/2021-juejin-vue-article</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/blog/2021-year-end-summary</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/blog/2022 年终总结，知识沉淀这一年</loc>
-  </url>
-
-  <url>
     <loc>https://github.com/balac2015/blog/2023 web 设计趋势</loc>
   </url>
 
   <url>
     <loc>https://github.com/balac2015/blog/ChatGPT 以及相关开源项目体验</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/blog/Develop-an-online-flowchart-website-with-NodeJS</loc>
   </url>
 
   <url>
@@ -69,35 +41,7 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/blog/a-create-react-app-v5-problem</loc>
-  </url>
-
-  <url>
     <loc>https://github.com/balac2015/blog/code-diff-editor</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/blog/codepen-1-initial</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/blog/codepen-2-Monaco-Editor</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/blog/codepen-3-prettier</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/blog/codepen-4-client-compile</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/blog/codepen-5-free-database</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/blog/codepen-6-screenshot</loc>
   </url>
 
   <url>
@@ -109,19 +53,7 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/blog/free-deploy-honeyed-words-generator</loc>
-  </url>
-
-  <url>
     <loc>https://github.com/balac2015/blog/how-html-to-markdown</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/blog/how-to-climb-juejin-articles</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/blog/how-to-deploy-a-dynamic-website-for-free</loc>
   </url>
 
   <url>
@@ -157,10 +89,6 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/blog/mid-2022-summary</loc>
-  </url>
-
-  <url>
     <loc>https://github.com/balac2015/blog/minprogram-scan-login</loc>
   </url>
 
@@ -169,23 +97,11 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/blog/node-reptile</loc>
-  </url>
-
-  <url>
     <loc>https://github.com/balac2015/blog/onlyoffice-nodejs-setup-width-docker</loc>
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/blog/phaser3-game</loc>
-  </url>
-
-  <url>
     <loc>https://github.com/balac2015/blog/position-fixed-problem</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/blog/prism-react-renderer</loc>
   </url>
 
   <url>
@@ -197,19 +113,11 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/blog/react-18-upgrade-guide</loc>
-  </url>
-
-  <url>
     <loc>https://github.com/balac2015/blog/react-dnd-low-code</loc>
   </url>
 
   <url>
     <loc>https://github.com/balac2015/blog/react-hooks-dark-mode</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/blog/react-pdf-resume</loc>
   </url>
 
   <url>
@@ -226,10 +134,6 @@
 
   <url>
     <loc>https://github.com/balac2015/blog/should-you-use-usememo-in-react</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/blog/svg-404</loc>
   </url>
 
   <url>
@@ -257,14 +161,6 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/blog/text-to-speech</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/blog/the-new-wechat-editor</loc>
-  </url>
-
-  <url>
     <loc>https://github.com/balac2015/blog/uniapp-user-sharing</loc>
   </url>
 
@@ -284,12 +180,6 @@
 
   <url>
     <loc>https://github.com/balac2015/blog/use-tailwindcss-get-websites</loc>
-  </url>
-
-  <url>
-    <loc
-      >https://github.com/balac2015/blog/use-threejs-and-react-to-render-a-3d-model-of-your-self</loc
-    >
   </url>
 
   <url>
@@ -317,14 +207,6 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/blog/webpack5-lazy-compilation</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/blog/wechat-mini-program-development</loc>
-  </url>
-
-  <url>
     <loc>https://github.com/balac2015/blog/wechat-minprogram-deployment-tutorial</loc>
   </url>
 
@@ -342,10 +224,6 @@
 
   <url>
     <loc>https://github.com/balac2015/blog/使用 Next 搭建 Monorepo 组件库文档</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/blog/使用 Next、 Prisma 和 PostgreSQL 全栈开发视频网站</loc>
   </url>
 
   <url>
@@ -384,10 +262,6 @@
 
   <url>
     <loc>https://github.com/balac2015/blog/基于 ChatGPT API 的划词翻译浏览器脚本实现</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/blog/基于 Tauri， 我写了一个 Markdown 桌面 App</loc>
   </url>
 
   <url>
@@ -443,11 +317,11 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/git</loc>
+    <loc>https://github.com/balac2015/tags/github</loc>
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/github</loc>
+    <loc>https://github.com/balac2015/tags/git</loc>
   </url>
 
   <url>
@@ -471,11 +345,11 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/orm</loc>
+    <loc>https://github.com/balac2015/tags/openai</loc>
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/openai</loc>
+    <loc>https://github.com/balac2015/tags/orm</loc>
   </url>
 
   <url>
@@ -519,6 +393,10 @@
   </url>
 
   <url>
+    <loc>https://github.com/balac2015/tags/后端</loc>
+  </url>
+
+  <url>
     <loc>https://github.com/balac2015/tags/工具</loc>
   </url>
 
@@ -527,15 +405,11 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/后端</loc>
+    <loc>https://github.com/balac2015/tags/开源</loc>
   </url>
 
   <url>
     <loc>https://github.com/balac2015/tags/微信</loc>
-  </url>
-
-  <url>
-    <loc>https://github.com/balac2015/tags/开源</loc>
   </url>
 
   <url>
@@ -547,7 +421,11 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/数据库</loc>
+    <loc>https://github.com/balac2015/tags/掘金金石计划</loc>
+  </url>
+
+  <url>
+    <loc>https://github.com/balac2015/tags/测试</loc>
   </url>
 
   <url>
@@ -559,14 +437,10 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/测试</loc>
-  </url>
-
-  <url>
     <loc>https://github.com/balac2015/tags/视觉设计</loc>
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/掘金金石计划</loc>
+    <loc>https://github.com/balac2015/tags/数据库</loc>
   </url>
 </urlset>

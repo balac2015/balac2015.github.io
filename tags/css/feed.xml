@@ -41,16 +41,6 @@
     </item>
   
     <item>
-      <guid>https://github.com/balac2015/blog/svg-404</guid>
-      <title>SVG + 动画 实现一个有个性的404页面</title>
-      <link>https://github.com/balac2015/blog/svg-404</link>
-      <description>&lt;img src=&quot;https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3e7b90cf755a4775a091936906e8055f~tplv-k3u1fbpfcp-zoom-crop-mark:1304:1304:1304:734.awebp?&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;我们的博客网站有时候 404 页面比较普通，我们可以通过SVG 加动画来实现一个有个性的页面。&lt;/small&gt;&lt;/p&gt;</description>
-      <pubDate>Mon, 18 Apr 2022 16:00:00 GMT</pubDate>
-      <author>tianping888@163.com (随风)</author>
-      <category>CSS</category>
-    </item>
-  
-    <item>
       <guid>https://github.com/balac2015/blog/use-CSS-variables-and-Tailwind-css</guid>
       <title>使用 CSS variables 和Tailwind css实现主题换肤</title>
       <link>https://github.com/balac2015/blog/use-CSS-variables-and-Tailwind-css</link>

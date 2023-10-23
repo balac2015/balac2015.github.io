@@ -20,15 +20,5 @@
       <category>微信小程序</category>
     </item>
   
-    <item>
-      <guid>https://github.com/balac2015/blog/wechat-mini-program-development</guid>
-      <title>小程序开发入门及多端开发浅析</title>
-      <link>https://github.com/balac2015/blog/wechat-mini-program-development</link>
-      <description>&lt;p&gt;&lt;small&gt;本部通过一个demo 入门介绍微信小程序云开发，并引申出跨端开发的现状，简要介绍各跨端开发框架，并简述其跨端开发原理。&lt;/small&gt;&lt;/p&gt;</description>
-      <pubDate>Mon, 30 Nov 2020 09:26:40 GMT</pubDate>
-      <author>tianping888@163.com (随风)</author>
-      <category>微信小程序</category><category>JavaScript</category>
-    </item>
-  
     </channel>
   </rss>
