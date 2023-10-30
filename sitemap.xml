@@ -309,7 +309,7 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/chrome</loc>
+    <loc>https://github.com/balac2015/tags/docker</loc>
   </url>
 
   <url>
@@ -317,7 +317,7 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/github</loc>
+    <loc>https://github.com/balac2015/tags/chrome</loc>
   </url>
 
   <url>
@@ -329,7 +329,7 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/docker</loc>
+    <loc>https://github.com/balac2015/tags/github</loc>
   </url>
 
   <url>
@@ -369,19 +369,15 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/uni-app</loc>
-  </url>
-
-  <url>
     <loc>https://github.com/balac2015/tags/visual-studio-code</loc>
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/vite</loc>
+    <loc>https://github.com/balac2015/tags/uni-app</loc>
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/前端</loc>
+    <loc>https://github.com/balac2015/tags/vite</loc>
   </url>
 
   <url>
@@ -393,7 +389,7 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/后端</loc>
+    <loc>https://github.com/balac2015/tags/前端</loc>
   </url>
 
   <url>
@@ -409,11 +405,15 @@
   </url>
 
   <url>
+    <loc>https://github.com/balac2015/tags/微信小程序</loc>
+  </url>
+
+  <url>
     <loc>https://github.com/balac2015/tags/微信</loc>
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/微信小程序</loc>
+    <loc>https://github.com/balac2015/tags/后端</loc>
   </url>
 
   <url>
@@ -425,11 +425,11 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/测试</loc>
+    <loc>https://github.com/balac2015/tags/数据库</loc>
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/游戏</loc>
+    <loc>https://github.com/balac2015/tags/测试</loc>
   </url>
 
   <url>
@@ -441,6 +441,6 @@
   </url>
 
   <url>
-    <loc>https://github.com/balac2015/tags/数据库</loc>
+    <loc>https://github.com/balac2015/tags/游戏</loc>
   </url>
 </urlset>
